@@ -106,3 +106,4 @@ Combine the Composition API, Vue Router and Vuex to build a large, complex appli
 - desien patterns
 - vue/vuex/vue-router
 - optimizing with caching in Vuex
+# vue-form-validation
